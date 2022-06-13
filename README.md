@@ -1,9 +1,6 @@
 ### Hi there 👋 my name is Nilton. Nice to meet you.
 ====================================================
 
-Python Developer
-----------------
-
 🤖 Passionate about technology, soccer, games, music, always in search of knowledge 🧠 and trying to evolve every day. My mission is to solve problems and deliver maximum value in people's lives using Python.
 
 ### Skills
