@@ -27,3 +27,5 @@
 <a href="http://www.github.com/niltonpimentel02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=niltonpimentel02&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/niltonpimentel02"><img src="https://activity-graph.herokuapp.com/graph?username=niltonpimentel02&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![Snake animation](https://github.com/niltonpimentel02/niltonpimentel02/blob/output/github-contribution-grid-snake.svg)
